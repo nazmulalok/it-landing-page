@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #272a2e;
+    --secondary-color: #000000;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cta-holder i {
+    margin-right: 15px;
+}
